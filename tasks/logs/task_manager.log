@@ -1,0 +1,6 @@
+2025-03-21 13:35:48,433 - logger - INFO - Added task: Test Task with priority 1
+2025-03-21 13:37:02,113 - logger - INFO - Added task: Test Task with priority 1
+2025-03-21 13:37:07,421 - logger - INFO - Added task: Test Task with priority 2
+2025-03-21 13:43:05,215 - logger - INFO - Added task: Test Task with priority 2
+2025-03-21 13:43:13,398 - logger - INFO - Added task: Test Task with priority 2
+2025-03-21 13:48:01,347 - INFO - Added task: Test Task with priority 1
